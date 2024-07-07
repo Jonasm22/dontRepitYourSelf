@@ -23,24 +23,24 @@ public class DiscountCalculator
      switch(customerType)
      {
         case CustomerType.Regular:
-        discount = totalAmount >  DISCOUNT_THRESHOLD ? 0.10 : 0.05;
-        break;
+            discount = totalAmount >  DISCOUNT_THRESHOLD ? 0.10 : 0.05;
+            break;
 
         case CustomerType.Premium:
-        discount = totalAmount >  DISCOUNT_THRESHOLD ? 0.15 : 0.10;
-        break;
+            discount = totalAmount >  DISCOUNT_THRESHOLD ? 0.15 : 0.10;
+            break;
 
         case CustomerType.Employee:
-        discount = totalAmount >  DISCOUNT_THRESHOLD ? 0.20 : 0.15;
-        break;
+            discount = totalAmount >  DISCOUNT_THRESHOLD ? 0.20 : 0.15;
+            break;
      
      }
        
      return totalAmount * discount;
     
     }
-
-//mensaje
 }
+
+
 
 

@@ -12,3 +12,4 @@
 /Users/jonathan/DRY/DRY/obj/Debug/net8.0/DRY.pdb
 /Users/jonathan/DRY/DRY/obj/Debug/net8.0/DRY.genruntimeconfig.cache
 /Users/jonathan/DRY/DRY/obj/Debug/net8.0/ref/DRY.dll
+/Users/jonathan/DRY/DRY/obj/Debug/net8.0/DRY.sourcelink.json

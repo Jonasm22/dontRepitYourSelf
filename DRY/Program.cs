@@ -1,7 +1,5 @@
 ﻿using System;
 
- static void Main(string[] args)
-{
     DiscountCalculator discountCalculator = new DiscountCalculator();
 
     double regularCustomerDiscount = discountCalculator.CalculateDiscount(CustomerType.Regular, 1200);
@@ -11,6 +9,6 @@
     double employeeCustomerDiscount = discountCalculator.CalculateDiscount(CustomerType.Employee, 1500);
     Console.WriteLine($"Employee Customer Discount {employeeCustomerDiscount}");
 
-}
+
 
 
