@@ -1,0 +1,14 @@
+/Users/jonathan/DRY/DRY/bin/Debug/net8.0/DRY
+/Users/jonathan/DRY/DRY/bin/Debug/net8.0/DRY.deps.json
+/Users/jonathan/DRY/DRY/bin/Debug/net8.0/DRY.runtimeconfig.json
+/Users/jonathan/DRY/DRY/bin/Debug/net8.0/DRY.dll
+/Users/jonathan/DRY/DRY/bin/Debug/net8.0/DRY.pdb
+/Users/jonathan/DRY/DRY/obj/Debug/net8.0/DRY.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jonathan/DRY/DRY/obj/Debug/net8.0/DRY.AssemblyInfoInputs.cache
+/Users/jonathan/DRY/DRY/obj/Debug/net8.0/DRY.AssemblyInfo.cs
+/Users/jonathan/DRY/DRY/obj/Debug/net8.0/DRY.csproj.CoreCompileInputs.cache
+/Users/jonathan/DRY/DRY/obj/Debug/net8.0/DRY.dll
+/Users/jonathan/DRY/DRY/obj/Debug/net8.0/refint/DRY.dll
+/Users/jonathan/DRY/DRY/obj/Debug/net8.0/DRY.pdb
+/Users/jonathan/DRY/DRY/obj/Debug/net8.0/DRY.genruntimeconfig.cache
+/Users/jonathan/DRY/DRY/obj/Debug/net8.0/ref/DRY.dll
